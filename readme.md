@@ -1,4 +1,4 @@
-#Random Link
+# Random Link
 
 Quick and dirty plugin to create a link button with a random link. When user clicks button, a new random link is assigned as link.
 
