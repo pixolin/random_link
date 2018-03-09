@@ -5,7 +5,7 @@
  * Plugin URI: https://
  * Author: Bego Mario Garde
  * Author URI: https://pixolin.de
- * Version: 1.0.0
+ * Version: 0.1 alpha
  * License: GPL2
  * Text Domain: randomlink
  * Domain Path: languages
